@@ -7,7 +7,7 @@ simply convert an image into a dotted image to use in your project or just to do
 2. include `"github.com/GoEntity/godotify/pkg"` in import() (see below)
 
 ## Usage Example
-Note: if you are not using custom name for package, use `dotify` instead. (i.e. dotify.GoDotify)
+Note: if you are not using custom name for package, use `dotify` instead. (i.e. dotify.GoDotify) <br>
 ![image](https://github.com/GoEntity/godotify/assets/116807050/c76c2d7a-3b6b-4409-93be-9c777b13f7de)
 
 ## Usage Example 2 (Ebitengine)
