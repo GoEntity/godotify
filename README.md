@@ -1,6 +1,7 @@
 # godotify
 simply convert an image into a dotted image to use in your project or just to download and save <br>
 ...supports `jpg`, `jpeg`, and `png` <br>
+lightweight <br>
 
 ## Install
 1. enter in console: `go get github.com/GoEntity/godotify`
