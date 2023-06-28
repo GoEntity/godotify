@@ -2,7 +2,7 @@
 simply convert an image into a dotted image to use in your project or just to download and save <br>
 
 ## Install
-![image](https://github.com/GoEntity/godotify/assets/116807050/c404c6fe-8aa5-4b9e-9205-7adf373b3eed)
+go get github.com/GoEntity/godotify/pkg@v1.0.0
 
 ## Usage Example
 ![image](https://github.com/GoEntity/godotify/assets/116807050/60a424b7-e421-4b51-95c7-cd3135687282)
