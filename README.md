@@ -14,4 +14,4 @@ Note: if you are not using custom name for package, use `godotify` instead. (i.e
 ![image](https://github.com/GoEntity/godotify/assets/116807050/c50eddc8-24db-45c6-9186-b5da3e291d50)
 
 ## Usage Example 2 (Ebitengine)
-![image](https://github.com/GoEntity/godotify/assets/116807050/c3f1ebad-5f33-4b27-9888-57bcf542a15d)
+
