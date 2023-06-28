@@ -11,11 +11,11 @@ import (
 	"github.com/disintegration/imaging"
 )
 
-type DottyConfig struct {
+type Config struct {
 	Intensity float64
 }
 
-func GoDotify(inputFile string, outputFile string, config DottyConfig) error {
+func GoDotify(inputFile string, outputFile string, config Config) error {
 	
 	//openfile
 	infile, err := os.Open(inputFile)
