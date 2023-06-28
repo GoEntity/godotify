@@ -4,7 +4,7 @@ simply convert an image into a dotted image to use in your project or just to do
 
 ## Install
 1. enter in console: `go get github.com/GoEntity/godotify`
-2. include `"github.com/GoEntity/godotify"` in import() if it didn't automatically (see below)
+2. `"github.com/GoEntity/godotify"` should be added in import(). add manually if it didn't (see below)
 
 ## Usage Example
 ![image](https://github.com/GoEntity/godotify/assets/116807050/2d218e61-f470-492e-ae44-8850339e5b52)
