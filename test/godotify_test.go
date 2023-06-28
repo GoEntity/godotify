@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	godotify "github.com/GoEntity/godotify/pkg"
+	godotify "github.com/GoEntity/godotify"
 )
 
 func TestGoDotify(t *testing.T) {
