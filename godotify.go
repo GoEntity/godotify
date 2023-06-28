@@ -16,7 +16,7 @@ type Config struct {
 }
 
 func GoDotify(inputFile string, outputFile string, config Config) error {
-	
+
 	//openfile
 	infile, err := os.Open(inputFile)
 	if err != nil {
