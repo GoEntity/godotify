@@ -32,7 +32,7 @@ func TestGoDotify(t *testing.T) {
 
 	for _, tc := range testCases {
 		t.Run(tc.name, func(t *testing.T) {
-			err := godotify.GoDotify(tc.inputFile, tc.outputFile, godotify.DottyConfig{Intensity: tc.intensity})
+			err := godotify.GoDotify(tc.inputFile, tc.outputFile, godotify.Config{Intensity: tc.intensity})
 
 			if tc.expectedErr && err == nil {
 				t.Errorf("error expected but got none")
