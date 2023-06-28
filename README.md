@@ -3,7 +3,7 @@ simply convert an image into a dotted image to use in your project or just to do
 ...supports jpg, jpeg, and png <br>
 
 ## Install
-go get github.com/GoEntity/godotify/pkg@v1.0.0
+console command: go get github.com/GoEntity/godotify/pkg@v1.0.0
 
 and don't forget to import "github.com/GoEntity/godotify/pkg" in your .go file (see below)
 
